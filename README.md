@@ -25,6 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Golang" width="40"/>
 </p>
 
 ---
@@ -39,9 +40,9 @@
 
 ## ✨ Hobbies & Interests
 - 🏋️‍♂️ Gym & Weightlifting – building strength & discipline  
-- 🎮 PC Gaming – always up for a good match  
+- 🎮 PC Gaming - Being a Witcher or an Assassin  
 - 🏸 Playing Badminton (sometimes)  
-- 📈 Exploring productivity hacks  
+- 📈 Exploring and teaching productivity hacks  
 
 ---
 
