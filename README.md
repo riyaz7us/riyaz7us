@@ -60,7 +60,7 @@
 </p>
 
 ---
-<img src="https://raw.githubusercontent.com/riyaz7us/riyaz7us/output/snake.svg" alt="Snake animation" />
+
 ---
 
 <p align="center">
