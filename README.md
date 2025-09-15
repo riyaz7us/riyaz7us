@@ -60,7 +60,6 @@
 </p>
 
 ---
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riyaz7us/riyaz7us/output/pacman-contribution-graph-dark.svg">
