@@ -1,7 +1,7 @@
 <!-- Header with animation -->
 <h1 align="center">Hi there 👋, I'm Syed Riyaz Uddin</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00C3FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Freelancer+%26+Tech+Enthusiast;CTO+at+SpotVerge" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00C3FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Freelancer+%26+Tech+Enthusiast;CTO+at+SpotVerge;Founder+of+CloudZigo" alt="Typing Animation" />
 </p>
 
 ---
@@ -12,7 +12,13 @@
 - 🏢 Chief Technology Officer at **[Spotverge](https://spotverge.com)** – SAAS Development Company
 - 🎮 Passionate about **PC gaming**, fitness & productivity  
 - 📬 Reach me for freelance projects → **riyaz7us@gmail.com** | **cto@spotverge.com**
+---
 
+## 🚀 My Flagship Products
+- ☁️ **CloudZigo** - Managed Hosting With Handpicked Powerful Servers
+- 🤖 **ZakBot** - A Versatile Chatbot Builder For Web Chats
+- 🖋  **WordAdAI** An AI-Based Visual Canvas Editor
+- 🖋  **Panel17** __(Upcoming)__ A Plug n' Play Control Panel With Powerful Features
 ---
 
 ## 🛠️ Tech & Tools I Use
